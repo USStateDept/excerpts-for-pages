@@ -1,0 +1,10 @@
+{
+    "name": "usstatedept/excerpts-for-pages",
+    "type": "wordpress-plugin",
+    "description" : "Add excerpts for Pages",
+    "version": "1.1",
+    "minimum-stability": "stable",
+    "require": {
+       "composer/installers": "~1.0"
+    }
+}
